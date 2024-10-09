@@ -1,4 +1,4 @@
-module Part1.TABT where
+module Fundamentals.TABT where
 
 -- Ex. 1.4 i Prove by Curry-Howard (a^b)^c = a^(b*c)
 -- A: they are curry and uncurry
